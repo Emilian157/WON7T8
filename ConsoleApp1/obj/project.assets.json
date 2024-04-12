@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emilian_157/C#/Won7T/Curs8T/ConsoleApp1/ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "/Users/emilian_157/C#/Won7T/Curs8T/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/emilian_157/C#/Won7T/Curs8T/ConsoleApp1/Curs8T.csproj",
+      "projectName": "Curs8T",
+      "projectPath": "/Users/emilian_157/C#/Won7T/Curs8T/ConsoleApp1/Curs8T.csproj",
       "packagesPath": "/Users/emilian_157/.nuget/packages/",
       "outputPath": "/Users/emilian_157/C#/Won7T/Curs8T/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

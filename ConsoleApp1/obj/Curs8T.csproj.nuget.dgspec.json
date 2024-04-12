@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/emilian_157/C#/Won7T/Curs8T/ConsoleApp1/Curs8T.csproj": {}
+  },
+  "projects": {
+    "/Users/emilian_157/C#/Won7T/Curs8T/ConsoleApp1/Curs8T.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emilian_157/C#/Won7T/Curs8T/ConsoleApp1/Curs8T.csproj",
+        "projectName": "Curs8T",
+        "projectPath": "/Users/emilian_157/C#/Won7T/Curs8T/ConsoleApp1/Curs8T.csproj",
+        "packagesPath": "/Users/emilian_157/.nuget/packages/",
+        "outputPath": "/Users/emilian_157/C#/Won7T/Curs8T/ConsoleApp1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emilian_157/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
